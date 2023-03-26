@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align=>Hi, I'm Asadbek. Welcome to my Github profile!</h1> 
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=asadbekdev07&show_icons=true&theme=gradient) 
+
 
 <!--
 **asadbekdev07/asadbekdev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
