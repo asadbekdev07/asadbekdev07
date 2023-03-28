@@ -1,4 +1,4 @@
-<h1 align=>Hi, I'm Asadbek. Welcome to my Github profile!</h1>
+<h1 align=>Hi, I'm Asadbek Botirqulov. Welcome to my Github profile!</h1>
 
 💻&nbsp;<b>Connect with me:</b>
 <p align="left">
