@@ -2,6 +2,14 @@
 
 <h1 align="center">Hi, I'm Asadbek Botirqulov. Welcome to my Github profile!</h1>
 
+<p>
+  <h4 align="center"><b>"Clean code always looks like it was written by someone who cares."</b></h4>
+</p>
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/asadbek07dev" />
+</p>
+
 💻&nbsp;<b>Connect with me:</b>
 <p align="left">
 <a href="https://www.linkedin.com/in/asadbek-botirqulov-755627269/" target="blank"><img align="center" src="https://github.com/asadbekdev07/asadbekdev07/blob/main/logo/linkedln_logo.png" alt="asadbekdev07" height="30" width="30" /></a>
