@@ -1,4 +1,6 @@
-<h1 align=>Hi, I'm Asadbek Botirqulov. Welcome to my Github profile!</h1>
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+<h1 align="center">Hi, I'm Asadbek Botirqulov. Welcome to my Github profile!</h1>
 
 💻&nbsp;<b>Connect with me:</b>
 <p align="left">
@@ -21,4 +23,3 @@
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asadbekdev07&count_private=true&show_icons=true&custom_title=Github&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8) | My total contributions and the length of my current streak compared to my all-time longest streak.  |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekdev07&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=swift) | My most used programming languages for my public GitHub repositories. |
 | ![Asadbek Botirqulov's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadbekdev07&show_icons=true&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=10) | Total stars earned by my repositories, total commits this year, total PR, total issues, and total repositories that I contributed to last year. |
-
