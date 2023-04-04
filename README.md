@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<h1 align="center">Hi, I'm Asadbek Botirqulov. Welcome to my Github profile!</h1>
+<h1 align="center">Hi, I'm Asadbek Botirqulov.</h1>
 
 <p>
   <h4 align="center"><b>"Clean code always looks like it was written by someone who cares."</b></h4>
