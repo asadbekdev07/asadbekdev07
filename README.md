@@ -6,9 +6,6 @@
   <h4 align="center"><b>"Clean code always looks like it was written by someone who cares."</b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/asadbek07dev" />
-</p>
 
 ## 💻 Connect with me:
 <p align="left">
