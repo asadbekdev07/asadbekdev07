@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/asadbek-botirqulov-755627269/" target="blank"><img align="center" src="https://github.com/asadbekdev07/asadbekdev07/blob/main/logo/linkedln_logo.png" alt="asadbekdev07" height="30" width="30" /></a>
 <a href="https://www.instagram.com/asadbek_botirqulov/" target="blank"><img align="center" src="https://github.com/asadbekdev07/asadbekdev07/blob/main/logo/instagram_logo.png" alt="asadbekdev07" height="30" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100035496272420" target="blank"><img align="center" src="https://github.com/asadbekdev07/asadbekdev07/blob/main/logo/logo-facebook-facebook-logo-transparent-png-pictures-icons-and-0.png" alt="asadbekdev07" height="30" width="30" /></a>
 
 ## 👨‍💻 Tech Stack:
  <p align="left">
